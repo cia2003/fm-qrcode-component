@@ -30,7 +30,7 @@ As I start to solve it, I face two challenges:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/cia2003/fm-qrcode-component)
 - Live Site URL: (https://cia2003.github.io/fm-qrcode-component/)
 
 ## My process
