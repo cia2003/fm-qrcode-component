@@ -95,4 +95,4 @@ I think I want to search for adjusting the width of content automatically withou
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/cia2003)
+- Frontend Mentor - [@cia2003](https://www.frontendmentor.io/profile/cia2003)
