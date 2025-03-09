@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is a project to solve a challenge from Frontend Mentor about QR Code Component. The mission is to make a card that contains a QR Code image with a caption. 
@@ -33,7 +31,7 @@ As I start to solve it, I face two challenges:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://cia2003.github.io/fm-qrcode-component/)
 
 ## My process
 
